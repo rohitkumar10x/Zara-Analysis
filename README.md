@@ -55,15 +55,5 @@ Power BI transformations + DAX measures used to create insights:
 ---
 
 ## 📂 Project Files
-- `zara_retail_sales.csv` → Cleaned dataset  
-- `Zara_Retail_Dashboard.pbix` → Full interactive Power BI dashboard  
-- `Dashboard_Screenshots/` → Preview images  
+  
 
----
-
-## 🚀 Tech Stack
-- **Power BI Desktop** → Data Modeling, Dashboarding  
-- **Power Query (M)** → Data Cleaning & Transformation  
-- **DAX** → Measures & KPIs  
-
----
