@@ -1,10 +1,9 @@
-# Zara-Analysis
 # 📊 Zara Retail Sales – Power BI Dashboard Project
 
 ## 📂 Dataset
 The dataset used in this project is uploaded in this repository.  
 
-📌 [**Download Dataset (CSV)**](./zara_retail_sales.csv)
+📌 [**Download Dataset (CSV)**](https://github.com/rohitkumar10x/Zara-Analysis/blob/main/Zara_Sales_Analysis.csv)
 
 ---
 
@@ -31,9 +30,18 @@ Power BI transformations + DAX measures used to create insights:
 ---
 
 ## 🖼️ Dashboard Pages
-- **Page 1: Sales Overview** → KPIs, Position-wise sales, Promotion/Seasonal breakdown  
-- **Page 2: Product Performance** → Table (Top/Bottom products), Scatter chart, Slicers  
-- **Page 3: Seasonal Insights** → Seasonal vs Non-seasonal contribution, Category breakdown  
+- **Page 1: Sales Overview**  
+- **Page 2: Product Performance**  
+- **Page 3: Seasonal Insights**  
+- **Page 4: Category/Brand Deep Dive**  
+
+📌 Dashboard Previews:  
+- ![Page 1](./Zara%20Analysis_page-0001.jpg)  
+- ![Page 2](./Zara%20Analysis_page-0002.jpg)  
+- ![Page 3](./Zara%20Analysis_page-0003.jpg)  
+- ![Page 4](./Zara%20Analysis_page-0004.jpg)  
+
+📌 [**Project File (PBIX + Assets)**](https://drive.google.com/drive/folders/16m97H-uDh0pHgVCN8au4XvKxLZfUtcfG?dmr=1&ec=wgc-drive-globalnav-goto)
 
 ---
 
@@ -55,5 +63,4 @@ Power BI transformations + DAX measures used to create insights:
 ---
 
 ## 📂 Project Files
-  
-
+📌 [**Google Drive Link – Project Files**](https://drive.google.com/drive/folders/16m97H-uDh0pHgVCN8au4XvKxLZfUtcfG?dmr=1&ec=wgc-drive-globalnav-goto)
