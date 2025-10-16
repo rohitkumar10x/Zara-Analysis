@@ -1,4 +1,4 @@
-# 📊 Zara Retail Sales – Power BI Dashboard Project
+# 📊 Zara Analyst – Power BI Dashboard Project
 
 ## 📂 Dataset
 The dataset used in this project is uploaded in this repository.  
@@ -40,10 +40,6 @@ Power BI transformations + DAX measures used to create insights:
 - ![Page 2](./Zara%20Analysis_page-0002.jpg)  
 - ![Page 3](./Zara%20Analysis_page-0003.jpg)  
 - ![Page 4](./Zara%20Analysis_page-0004.jpg)  
-
-📌 [**Project File (PBIX + Assets)**](https://drive.google.com/drive/folders/16m97H-uDh0pHgVCN8au4XvKxLZfUtcfG?dmr=1&ec=wgc-drive-globalnav-goto)
-
----
 
 ## 🔑 Key Insights
 - 💰 **Total Sales** driven by a few top-performing jackets  
